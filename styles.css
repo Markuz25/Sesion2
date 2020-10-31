@@ -1,0 +1,50 @@
+.header-padre {
+  margin: 40px 20px 0 20px;
+  display: flex;
+  background: #f2f2f2;
+  justify-content: space-between;
+  font-family: sans-serif;
+  margin-top: 45px 0 10px 0;
+}
+
+.header-padre img{
+  padding:10px;
+  width: 200px;
+}
+
+li {
+  list-style: none;
+  display: inline;
+}
+.navbar {
+  font-size: 20px;
+  margin: 0 25px;
+  padding: 10px;
+}
+
+.navbar li {
+  margin: 0 25px;
+  color: #025157;
+  list-style: none;
+}
+
+.actions {
+  font-size: 20px;
+  margin: auto 10px;
+}
+
+.actions li {
+  margin: 0 14px;
+}
+
+.signIn {
+  color: #67b54b;
+}
+
+.starfree {
+  color: #fff;
+  background-color: #67b54b;
+  padding: 12px 14px;
+  border-radius: 5px;
+  font-size: 20px;
+}
